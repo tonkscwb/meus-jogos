@@ -1,0 +1,6 @@
+---
+description: Regras gerais da pasta Jogos do Vinicius (roadmap e registro de chats)
+alwaysApply: true
+---
+Siga as instruções em `AGENTS.md` na raiz do repositório (fonte única de regras para todas as IAs).
+@AGENTS.md

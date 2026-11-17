@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+dist/
+build/
+.env
+
+# Cada jogo é um clone do próprio repositório
+/rpg-sem-nome/
+/cola-na-prova/
