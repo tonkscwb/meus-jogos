@@ -23,11 +23,11 @@ O **RPG SEM NOME** é a exceção: nasceu antes deste painel e segue o próprio 
 ## Primeira vez numa máquina nova
 ```bash
 mkdir -p MeusJogos && cd MeusJogos
-gh repo clone tonkscwb/jogos Jogos && cd Jogos
+gh repo clone tonkscwb/meus-jogos Jogos && cd Jogos
 gh repo clone tonkscwb/RPG-SEM-NOME rpg-sem-nome
 gh repo clone Room-do-desafio/Cola-na-prova cola-na-prova
 gh repo clone Room-do-desafio/Pilha-do-rodizio pilha-do-rodizio
-gh repo clone Room-do-desafio/Degrade degrade
+gh repo clone Room-do-desafio/Degrad- degrade
 ```
 
 ## Novo jogo
