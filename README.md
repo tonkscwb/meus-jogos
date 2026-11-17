@@ -28,6 +28,7 @@ gh repo clone tonkscwb/RPG-SEM-NOME rpg-sem-nome
 gh repo clone Room-do-desafio/Cola-na-prova cola-na-prova
 gh repo clone Room-do-desafio/Pilha-do-rodizio pilha-do-rodizio
 gh repo clone Room-do-desafio/Degrad- degrade
+gh repo clone Room-do-desafio/Capivara-sobrevivente capivara-sobrevivente
 ```
 
 ## Novo jogo
