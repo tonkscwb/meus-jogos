@@ -26,6 +26,7 @@ mkdir -p MeusJogos && cd MeusJogos
 gh repo clone tonkscwb/jogos Jogos && cd Jogos
 gh repo clone tonkscwb/RPG-SEM-NOME rpg-sem-nome
 gh repo clone Room-do-desafio/Cola-na-prova cola-na-prova
+gh repo clone Room-do-desafio/Pilha-do-rodizio pilha-do-rodizio
 ```
 
 ## Novo jogo
