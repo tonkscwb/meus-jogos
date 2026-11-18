@@ -12,6 +12,7 @@ Legenda: 💡 Ideia · 🧭 Planejando · 🚧 Em andamento · ✅ Concluído ·
 | [Pilha do Rodízio](pilha-do-rodizio/ROADMAP.md) | 🚧 | 💰 Sim | Capacitor 7 (HTML) | Protótipo jogável: 7 carnes, física de empilhar, balanço; playtest no celular ([prévia](https://claude.ai/artifact/XRqR7m5vGqQQaYWkgYwPF7)) | M1 — Validação (playtest, vídeo do gancho, teste fechado) | [Pilha-do-rodizio](https://github.com/Room-do-desafio/Pilha-do-rodizio) |
 | [Degradê](degrade/ROADMAP.md) | 🚧 | 💰 Sim | Capacitor 7 (HTML) | Protótipo jogável: barbearia de um dedo, 7 cortes, nota tufo a tufo; playtest no celular | M1 — Validação (playtest, vídeo do gancho, teste fechado) | [Degrad-](https://github.com/Room-do-desafio/Degrad-) |
 | [Capivara Sobrevivente](capivara-sobrevivente/ROADMAP.md) | 🚧 | 💰 Sim | Capacitor 7 (HTML) | Corrida de 10 ondas com chefes na 5 e na 10, cocô de pombo que obriga a andar, recorde e cofre; playtest no celular | M1.5 — Som e melhorias permanentes com o cofre | [Capivara-sobrevivente](https://github.com/Room-do-desafio/Capivara-sobrevivente) |
+| [Ônibus Lotado](onibus-lotado/ROADMAP.md) | 🚧 | 💰 Sim | Capacitor 7 (HTML) | Jogo completo (M1): puzzle de cor no ponto, fases infinitas com obstáculos, Ads + Shop "Sem anúncios"; revisão do PR e playtest | M2 — Arte e polimento | a criar: Room-do-desafio/Onibus-lotado |
 
 ## Prioridade
 1. **Cola na Prova:** playtest no celular e vídeo de 15 s do flagra. Se o gancho funcionar, teste fechado na Play Store.
