@@ -1,7 +1,7 @@
 # Roadmap geral — Jogos do Vinicius
 
 > Visão de todos os projetos. Detalhes ficam no roadmap de cada jogo, dentro do repositório dele.
-> Atualizado em: 2026-11-17
+> Atualizado em: 2026-11-19
 
 Legenda: 💡 Ideia · 🧭 Planejando · 🚧 Em andamento · ✅ Concluído · ⏸️ Pausado · ❌ Descartado
 
@@ -13,6 +13,7 @@ Legenda: 💡 Ideia · 🧭 Planejando · 🚧 Em andamento · ✅ Concluído ·
 | [Degradê](degrade/ROADMAP.md) | 🚧 | 💰 Sim | Capacitor 7 (HTML) | Protótipo jogável: barbearia de um dedo, 7 cortes, nota tufo a tufo; playtest no celular | M1 — Validação (playtest, vídeo do gancho, teste fechado) | [Degrad-](https://github.com/Room-do-desafio/Degrad-) |
 | [Capivara Sobrevivente](capivara-sobrevivente/ROADMAP.md) | 🚧 | 💰 Sim | Capacitor 7 (HTML) | Corrida de 10 ondas com chefes na 5 e na 10, cocô de pombo que obriga a andar, recorde e cofre; playtest no celular | M1.5 — Som e melhorias permanentes com o cofre | [Capivara-sobrevivente](https://github.com/Room-do-desafio/Capivara-sobrevivente) |
 | [Ônibus Lotado](onibus-lotado/ROADMAP.md) | 🚧 | 💰 Sim | Capacitor 7 (HTML) | Jogo completo (M1): puzzle de cor no ponto, fases infinitas com obstáculos, Ads + Shop "Sem anúncios"; revisão do PR e playtest | M2 — Arte e polimento | [Onibus-lotado](https://github.com/Room-do-desafio/Onibus-lotado) |
+| [Vaqueiro da Vila](vaqueiro-da-vila/ROADMAP.md) | 🚧 | 💰 Sim | Capacitor 7 (HTML + Three.js) | Jogo completo (M1): defesa de vila no sertão em 3D, 10 noites, 5 defesas, armas, colheita e comprador, vila que cresce, Ads + Shop; revisão do PR e playtest ([prévia](https://claude.ai/artifact/7bCKiaV7DqAtS4NkESJw9H)) | M2 — Arte e polimento (etapa 4 dos modelos, equilíbrio medido) | [Vaqueiro-da-vila](https://github.com/Room-do-desafio/Vaqueiro-da-vila) |
 
 ## Prioridade
 1. **Cola na Prova:** playtest no celular e vídeo de 15 s do flagra. Se o gancho funcionar, teste fechado na Play Store.
